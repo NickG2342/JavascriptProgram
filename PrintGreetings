@@ -1,1 +1,14 @@
-// use the example and make your changes here
+//do not modify the var statements
+var computerAwake = false;
+var computerHappy = false;
+
+//add code here so the program will say Hello, World
+
+//do not modify the if statement
+if (computerAwake==true) {
+    if (computerHappy==true) {
+        console.log('Hello, World');
+    } else {
+        console.log('Go away, World!');
+    }
+}
