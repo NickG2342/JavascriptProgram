@@ -1,0 +1,12 @@
+//declare variables a & b
+var a = 99;
+var b = 111;
+
+//if statement
+if (a>=b) {
+    console.log('variable a is greater than variable b');
+} else if (a==b) {
+        console.log('variable a is equal to variable b');
+} else {
+        console.log('variable b is greater than variable a');
+}
