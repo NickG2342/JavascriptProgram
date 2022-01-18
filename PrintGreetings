@@ -4,7 +4,7 @@ var computerHappy = false;
 
 //add code here so the program will say Hello, World
 
-//do not modify the if statement
+//do not modify the if statements
 if (computerAwake==true) {
     if (computerHappy==true) {
         console.log('Hello, World');
