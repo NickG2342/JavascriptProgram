@@ -1,0 +1,14 @@
+//define variables a, b, c
+var a = 3;
+var b = 4;
+var c = 0;
+
+//print the values of a & b
+console.log('a=' + a);
+console.log('b=' + b);
+
+//assign a new value to c
+c = Math.sqrt(a * a + b * b)
+
+//print the value of c
+console.log('c=' + c);
