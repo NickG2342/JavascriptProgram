@@ -1,2 +1,28 @@
 // use the example and make your changes here
 console.log("greetings world")
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+    
+console.log("Welcome to Programiz!");
+//do not modify the var statements
+var computerAwake = false;
+var computerHappy = false;
+
+ if (computerAwake==false){
+        if (computerHappy==false){
+            console.log('Hello, World');
+            
+        }else{
+            console.log('Go away, World!');
+        }
+ }
+
+ //do not modify the if statement
+ //do not modify the if statements
+ if (computerAwake==true) {
+     if (computerHappy==true) {
+         console.log('Hello, World');
+    } else {
+        console.log('Go away, World!');
+    }
+}
